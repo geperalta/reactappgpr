@@ -15,6 +15,6 @@
         "id": 2,
         "title":"task three",
         "description":"Lorem Ipsum",
-        "done": true
+        "done": false
     }
 ]
